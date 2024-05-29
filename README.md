@@ -6,8 +6,9 @@ Welcome to my GitHub profile! Here are a few things about me:
    - I've been coding in **Go** for five months.
    - Over a year of experience with **Python** and **JavaScript**.
 
-2. 🐍 📚 **Currently Learning**:
-   - Diving into **React** and **Next.js** to expand my frontend skills.
+2. 📚 **Currently Learning**:
+   - Diving into **React** ![React](https://img.icons8.com/color/20/000000/react-native.png).
+   - Exploring **Next.js** ![Next.js](https://img.icons8.com/color/20/000000/nextjs.png).
 
 3. 🐦 **Connect with Me**:
    - Follow me on X: [@Airsicktitan](https://x.com/Airsicktitan)
