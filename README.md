@@ -1,4 +1,4 @@
-# Hi, I'm Adam Hooper! 👋
+# Hi, I'm Adam! 👋
 
 Welcome to my GitHub profile! Here are a few things about me:
 
