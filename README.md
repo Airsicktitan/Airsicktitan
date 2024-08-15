@@ -10,6 +10,7 @@ Welcome to my GitHub profile! Here are a few things about me:
 3. 📚 **Currently Learning**:
    - Diving into **React** ![React](https://img.icons8.com/color/20/000000/react-native.png).
    - Exploring **Next.js** ![Next.js](https://img.icons8.com/color/20/000000/nextjs.png).
+   - Diving into **Java** ![Java}(https://img.icons8.com/?size=100&id=13679&format=png&color=000000).
 
 4. 🐦 **Connect with Me**:
    - Follow me on X: [@Airsicktitan](https://x.com/Airsicktitan)
