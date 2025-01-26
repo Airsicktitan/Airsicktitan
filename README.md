@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! Here are a few things about me:
 
 1. 🖥️ **Coding Journey**:
-   - I've been primarily coding in **SQL** for over four yeras.
-   - I've been coding in **Go** for five months.
-   - I've also been coding in **C#** for a year.
+   - **SQL** ninja for over four yeras.
+   - Dabbled in **Go**.
+   - **C#** lover.
    - Over a year of experience with **Python** and **JavaScript**.
      
 3. 📚 **Currently Learning**:
