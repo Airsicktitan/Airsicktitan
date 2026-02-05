@@ -1,22 +1,37 @@
-# Hi, I'm Adam! 👋
+# Hi, I’m Adam
 
-Welcome to my GitHub profile! Here are a few things about me:
+Welcome to my GitHub profile. This is where I build, iterate, and refine software with a focus on real-world use cases and long-term maintainability.
 
-1. 🖥️ **Coding Journey**:
-   - **SQL** ninja for over four yeras.
-   - Dabbled in **Go**.
-   - **C#** lover.
-   - Over a year of experience with **Python** and **JavaScript**.
-     
-3. 📚 **Currently Learning**:
-   - Diving into **React** ![React](https://img.icons8.com/color/20/000000/react-native.png).
-   - Exploring **Next.js** ![Next.js](https://img.icons8.com/color/20/000000/nextjs.png).
-   - Diving into **C#** ![C#](https://img.icons8.com/color/20/000000/c-sharp-logo.png).
+## About Me
+- Software engineer with **4+ years of hands-on SQL experience**, working daily with complex queries, reporting, and data analysis in production environments  
+- Primary focus on **C# and .NET**, especially backend development and API design  
+- Experience with **JavaScript**, **Python**, and **Go**, primarily for services, tooling, and experimentation  
+- Strong interest in understanding system design, trade-offs, and architectural decisions rather than relying on surface-level implementations
 
-4. 🐦 **Connect with Me**:
-   - Follow me on X: [@Airsicktitan](https://x.com/Airsicktitan)
+## What I’m Working On
+- Backend APIs using modern **.NET / Minimal APIs**
+- Authentication and authorization (JWT, middleware pipelines, policies)
+- Full-stack prototypes designed around real business constraints
+- SaaS-style projects emphasizing:
+  - Clear domain modeling
+  - Maintainable and testable code
+  - Practical, product-driven features
 
-5. 🎤 **My Music**:
-   - Listen to my music at [composerastofficial.com](https://www.composerastofficial.com/)
+Most repositories here are intentionally iterative and reflect continuous learning, refactoring, and improvement.
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you want to collaborate.
+## Currently Learning
+- React for frontend development and API integration
+- Next.js for modern full-stack workflows
+- Advanced C# and .NET concepts, including middleware, request lifecycles, and application architecture
+
+## Approach
+- Preference for depth of understanding over copy-paste solutions
+- Emphasis on clean design, clarity, and intentional code
+- Continuous improvement through refactoring and review
+
+## Connect
+- X / Twitter: [@Airsicktitan](https://x.com/Airsicktitan)
+
+## Outside of Work
+- Composer and music producer  
+- Music: [composerastofficial.com](https://www.composerastofficial.com)
