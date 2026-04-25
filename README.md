@@ -110,16 +110,3 @@ CORTEX reduces:
 * I prefer understanding systems deeply over copying patterns
 * I focus on **why something works**, not just how
 * I iterate toward clarity, not complexity
-
----
-
-## 🔗 Connect
-
-* X / Twitter: [@Airsicktitan](https://x.com/Airsicktitan)
-
----
-
-## 🎧 Outside of Tech
-
-* Composer and music producer
-* Music: [composerastofficial.com](https://www.composerastofficial.com)
