@@ -1,37 +1,125 @@
-# Hi, I’m Adam
+# 👋 Hi, I’m Adam
 
-Welcome to my GitHub profile. This is where I build, iterate, and refine software with a focus on real-world use cases and long-term maintainability.
+I build systems that turn messy, real-world workflows into **clear, actionable decisions**.
 
-## About Me
-- Software engineer with **4+ years of hands-on SQL experience**, working daily with complex queries, reporting, and data analysis in production environments  
-- Primary focus on **C# and .NET**, especially backend development and API design  
-- Experience with **JavaScript**, **Python**, and **Go**, primarily for services, tooling, and experimentation  
-- Strong interest in understanding system design, trade-offs, and architectural decisions rather than relying on surface-level implementations
+---
 
-## What I’m Working On
-- Backend APIs using modern **.NET / Minimal APIs**
-- Authentication and authorization (JWT, middleware pipelines, policies)
-- Full-stack prototypes designed around real business constraints
-- SaaS-style projects emphasizing:
-  - Clear domain modeling
-  - Maintainable and testable code
-  - Practical, product-driven features
+## 🧠 What I Focus On
 
-Most repositories here are intentionally iterative and reflect continuous learning, refactoring, and improvement.
+* Backend engineering with **C# / .NET**
+* Data-driven systems (4+ years of SQL in production environments)
+* Building **decision-oriented software**, not just CRUD apps
+* Designing systems that are:
 
-## Currently Learning
-- React for frontend development and API integration
-- Next.js for modern full-stack workflows
-- Advanced C# and .NET concepts, including middleware, request lifecycles, and application architecture
+  * explainable
+  * maintainable
+  * aligned with real business constraints
 
-## Approach
-- Preference for depth of understanding over copy-paste solutions
-- Emphasis on clean design, clarity, and intentional code
-- Continuous improvement through refactoring and review
+---
 
-## Connect
-- X / Twitter: [@Airsicktitan](https://x.com/Airsicktitan)
+## 🚀 Featured Project — CORTEX
 
-## Outside of Work
-- Composer and music producer  
-- Music: [composerastofficial.com](https://www.composerastofficial.com)
+**Central Operations & Routing Technology EXpert**
+
+CORTEX is an operations platform that transforms support workflows by making:
+
+* ownership explicit
+* ticket quality measurable
+* decisions explainable
+* workload optimizable
+
+👉 Instead of:
+
+> “Who owns this ticket?”
+
+It answers:
+
+> **“Who should own this — and why?”**
+
+---
+
+### 🔥 What It Does
+
+* Improves ticket quality before submission (intake assist)
+* Extracts insight from screenshots (AI vision)
+* Signals reviewer readiness instantly
+* Recommends optimal ownership based on rules + workload
+* Rebalances workload safely (no instability / ping-pong)
+* Measures impact through workflow metrics
+
+---
+
+### 🧠 Key Principle
+
+> AI supports decisions — it never replaces system rules.
+
+* No hallucinated states
+* No silent mutations
+* Fully explainable outputs
+
+---
+
+### 🏗 Tech Stack
+
+* .NET 8 Minimal APIs
+* React + TypeScript
+* SQL Server / EF Core
+* SignalR (realtime updates)
+* Auth0 authentication
+* Docker / Azure Container Apps
+
+---
+
+### 💡 Why It Matters
+
+Most teams don’t lose time solving problems —
+they lose time clarifying them.
+
+CORTEX reduces:
+
+* follow-up cycles
+* incorrect routing
+* SLA risk
+* workload imbalance
+
+---
+
+## 🧪 What I’m Building
+
+* API-first backend systems
+* Real-time applications (SignalR, event-driven updates)
+* SaaS-style platforms focused on:
+
+  * domain modeling
+  * system clarity
+  * measurable outcomes
+
+---
+
+## 📚 Currently Exploring
+
+* React + modern frontend patterns
+* System design and architecture trade-offs
+* Distributed systems thinking
+* Go for service-level experimentation
+
+---
+
+## 🧠 How I Work
+
+* I prefer understanding systems deeply over copying patterns
+* I focus on **why something works**, not just how
+* I iterate toward clarity, not complexity
+
+---
+
+## 🔗 Connect
+
+* X / Twitter: [@Airsicktitan](https://x.com/Airsicktitan)
+
+---
+
+## 🎧 Outside of Tech
+
+* Composer and music producer
+* Music: [composerastofficial.com](https://www.composerastofficial.com)
