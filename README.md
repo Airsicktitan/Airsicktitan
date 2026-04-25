@@ -7,7 +7,7 @@ I build systems that turn messy, real-world workflows into **clear, actionable d
 ## 🧠 What I Focus On
 
 * Backend engineering with **C# / .NET**
-* Data-driven systems (4+ years of SQL in production environments)
+* Data-driven systems (5+ years of SQL in production environments)
 * Building **decision-oriented software**, not just CRUD apps
 * Designing systems that are:
 
