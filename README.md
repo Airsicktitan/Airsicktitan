@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Adam
+# Hi, I’m Adam
 
 I build systems that turn messy, real-world workflows into **clear, actionable decisions**.
 
 ---
 
-## 🧠 What I Focus On
+## What I Focus On
 
 * Backend engineering with **C# / .NET**
 * Data-driven systems (5+ years of SQL in production environments)
-* Building **decision-oriented software**, not just CRUD apps
+* Decision-oriented software — not just CRUD applications
 * Designing systems that are:
 
   * explainable
@@ -17,49 +17,51 @@ I build systems that turn messy, real-world workflows into **clear, actionable d
 
 ---
 
-## 🚀 Featured Project — CORTEX
+## Featured Project — CORTEX
 
 **Central Operations & Routing Technology EXpert**
 
-CORTEX is an operations platform that transforms support workflows by making:
+CORTEX is an operations platform that improves support workflows by making:
 
 * ownership explicit
 * ticket quality measurable
 * decisions explainable
 * workload optimizable
 
-👉 Instead of:
+Instead of asking:
 
 > “Who owns this ticket?”
 
 It answers:
 
-> **“Who should own this — and why?”**
+> **“Who should own this — how confident are we — and what should change if that decision keeps failing?”**
 
 ---
 
-### 🔥 What It Does
+### What It Does
 
 * Improves ticket quality before submission (intake assist)
-* Extracts insight from screenshots (AI vision)
+* Extracts structured insight from screenshots
 * Signals reviewer readiness instantly
-* Recommends optimal ownership based on rules + workload
-* Rebalances workload safely (no instability / ping-pong)
-* Measures impact through workflow metrics
+* Recommends ownership using rules, workload, and historical outcomes
+* Adjusts decision confidence based on real-world behavior
+* Identifies ineffective system rules and surfaces recommendations
+* Rebalances workload safely (no instability or ping-pong)
+* Measures operational impact through workflow metrics
 
 ---
 
-### 🧠 Key Principle
+### Key Principle
 
-> AI supports decisions — it never replaces system rules.
+> AI supports decisions — it does not replace system authority.
 
-* No hallucinated states
-* No silent mutations
-* Fully explainable outputs
+* no hallucinated system states
+* no silent mutations
+* fully explainable outputs
 
 ---
 
-### 🏗 Tech Stack
+### Tech Stack
 
 * .NET 8 Minimal APIs
 * React + TypeScript
@@ -70,7 +72,7 @@ It answers:
 
 ---
 
-### 💡 Why It Matters
+### Why It Matters
 
 Most teams don’t lose time solving problems —
 they lose time clarifying them.
@@ -82,31 +84,34 @@ CORTEX reduces:
 * SLA risk
 * workload imbalance
 
+It also exposes when the system itself is the problem — not just the ticket.
+
 ---
 
-## 🧪 What I’m Building
+## What I’m Building
 
 * API-first backend systems
 * Real-time applications (SignalR, event-driven updates)
 * SaaS-style platforms focused on:
 
   * domain modeling
-  * system clarity
+  * decision clarity
   * measurable outcomes
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
-* React + modern frontend patterns
-* System design and architecture trade-offs
+* React and modern frontend patterns
+* System design and architectural trade-offs
 * Distributed systems thinking
 * Go for service-level experimentation
 
 ---
 
-## 🧠 How I Work
+## How I Work
 
-* I prefer understanding systems deeply over copying patterns
-* I focus on **why something works**, not just how
+* I focus on understanding systems deeply rather than copying patterns
+* I care about **why something works**, not just how
 * I iterate toward clarity, not complexity
+* I optimize for real-world usefulness over theoretical design
